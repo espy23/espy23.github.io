@@ -1,0 +1,16 @@
+---
+layout: page
+hide_description: true
+title: Writeups
+description: Projects, Labs, and CTFs I've done to get hands-on experience.
+---
+
+<h2>CTF Writeups</h2>
+
+<ul>
+  {% for writeup in site.writeups %}
+    <li>
+      <a href="{{ writeup.url }}">{{ writeup.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
