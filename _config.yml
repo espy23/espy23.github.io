@@ -15,6 +15,9 @@ url:                   https://www.sabrinacyber.com
 # General settings
 # ---------------------------------------------------------------------------------------
 
+favicon: /assets/icons/favicon.ico
+apple_touch_icon: /assets/icons/favicon.png
+
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en-us
