@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Security Analysis
-description: ISSEM Project: Security Analysis of a Medical Device
+title: Security Analysis Project
+description: ISSEM : Security Analysis of a Medical Device
 ---
 
 ### Course: Information Systems Security Engineering and Management

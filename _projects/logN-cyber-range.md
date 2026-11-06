@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Cyber Range - Vulnerability Labs
+title: Vulnerability Labs
 description: Hands-on enterprise simulation using Tenable & Azure
 ---
 

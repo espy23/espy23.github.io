@@ -1,7 +1,7 @@
 ---
 layout: page
 hide_description: true
-title: Writeups
+title: CyberGEN.IQ results
 description: CyberGEN.IQ results
 ---
 

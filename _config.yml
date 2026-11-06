@@ -23,7 +23,7 @@ apple_touch_icon: /assets/icons/favicon.png
 lang:                  en-us
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Sabrina Pattavina
+title:
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -44,7 +44,7 @@ logo:                  /assets/img/headshot.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Sabrina Pattavina
+  name:                Sabrina
   email:               sabrina.pattavina@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>

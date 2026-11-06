@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Code Auditing
-description: Application Security Project: Code Auditing and Analysis
+title: Code Auditing Project
+description: Application Security : Code Auditing and Analysis
 ---
 
 ### Course: Application Security

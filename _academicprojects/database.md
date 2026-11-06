@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Database Design
-description: Principles of Database Systems Project: Relational Database and Application Development
+title: Database Design Project
+description: Principles of Database Systems : Relational Database and Application Development
 ---
 
 ### Course: Principles of Database Systems
