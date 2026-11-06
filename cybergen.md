@@ -19,6 +19,12 @@ My overall assessment profile highlights strong capabilities in deep analytical 
 - Analysis & Forensics: 66 / 100
 - Defensive Operations: 61 / 100
 
+> Note on scoring:
+> * 0-35 = less likely to excel
+> * 35-50 = likely to excel
+> * 50-65 = strong aptitude
+> * 65+ = very strong aptitude
+
 #### Standout Metrics
 - Mental Model Ability: Demonstrates an advanced capacity to build complex mental models and rapidly test hypotheses when surveying networks or investigating anomalous behavior.
 - Pattern Vigilance: Measures the ability to maintain deep concentration for long periods of time. Useful for monitoring large volumes of security alerts and understanding which matter without being lulled to boredom by those that don’t.
