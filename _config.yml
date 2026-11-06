@@ -23,7 +23,7 @@ apple_touch_icon: /assets/icons/favicon.png
 lang:                  en-us
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:
+title:                 Sabrina Pattavina
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -316,6 +316,11 @@ collections:
   writeups:
     permalink:         /writeups/:path/
     output:            true
+
+  academics:
+    permalink:         /academics/:path/
+    output:            true
+
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------

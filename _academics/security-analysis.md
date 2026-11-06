@@ -1,12 +1,15 @@
 ---
-layout: project
-title: Security Analysis Project
-description: ISSEM : Security Analysis of a Medical Device
+layout: page
+title: ISSEM - Security Analysis of a Medical Device
+description: The security analysis of a simulated infant incubator
 ---
 
+---
 ### Course: Information Systems Security Engineering and Management
 #### Assignment: Security Analysis of a Medical Device
-***Overview: Completed a semester-long project focusing on the security analysis of a simulated infant incubator.*** Collaborated with a dedicated lab group beginning with the initial product inspection to the final security analysis.
+
+- Completed a semester-long project focusing on the security analysis of a simulated infant incubator.
+- Collaborated with a dedicated lab group beginning with the initial product inspection to the final security analysis.
 - Outlined the security requirements needed for the infant incubator.
 - Identified vulnerabilities in the product code and developed patches in Python to fix the vulnerabilities.
 - Created a threat model, listing assets and threats associated with the infant incubator.

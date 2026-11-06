@@ -19,12 +19,11 @@ My overall assessment profile highlights strong capabilities in deep analytical 
 - Analysis & Forensics: 66 / 100
 - Defensive Operations: 61 / 100
 
-> Note on scoring:
-> * 0-35 = less likely to excel
-> * 35-50 = likely to excel
-
-<sub>50-65 = strong aptitude</sub>
-<sub>65+ = very strong aptitude</sub>
+><sub>Note on scoring:</sub><br>
+><sub>0-35 = less likely to excel</sub><br>
+><sub>35-50 = likely to excel</sub><br>
+><sub>50-65 = strong aptitude</sub><br>
+><sub>65+ = very strong aptitude</sub>
 
 #### Standout Metrics
 - Mental Model Ability: Demonstrates an advanced capacity to build complex mental models and rapidly test hypotheses when surveying networks or investigating anomalous behavior.

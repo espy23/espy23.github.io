@@ -1,11 +1,10 @@
 ---
-layout: project
-title: Vulnerability Labs
+layout: page
+title: Log(N) Pacific Cyber Range - Vulnerability Management
 description: Hands-on enterprise simulation using Tenable & Azure
 ---
 
-### Cyber Range (Log(N) Pacific) – Vulnerability Management Labs
-***Hands-on enterprise simulation using Tenable & Azure***
+#### Vulnerability Management Labs Overview
 - Built and managed Windows and Linux virtual machines in Azure, intentionally introducing insecure configurations, outdated software, and weak credentials to simulate real-world vulnerability scenarios.
 - Conducted authenticated and unauthenticated vulnerability scans using Tenable Vulnerability Management (Nessus) and analyzed differences in scan depth, duration, and findings.
 - Performed full vulnerability management lifecycle activities: discovery, assessment, prioritization, reporting, remediation, and verification through rescanning.

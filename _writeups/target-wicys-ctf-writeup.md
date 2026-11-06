@@ -5,8 +5,8 @@ title: Target + WiCyS Cyber Defense Challenge 2025
 description:  Writeup for the annual Target Cyber Defense Challenge!
 ---
 
-# Target + WiCyS Cyber Defense Challenge 2025
-## Top 50 of 896 Participants | Solo Competitor | Tier 1 & Tier 2
+## Target + WiCyS Cyber Defense Challenge 2025
+### Top 50 of 896 Participants | Solo Competitor | Tier 1 & Tier 2
 
 ---
 
