@@ -27,7 +27,7 @@ My overall assessment profile highlights strong capabilities in deep analytical 
 - Exhaustive Problem Solving: Shows a persistent drive to push through technical obstacles and follow chains of evidence all the way to root cause resolution.
 
 <details>
-  <summary><b>View CyberGEN.IQ Assessment Results (Click to Expand)</b></summary>
+  <summary><b><u>View CyberGEN.IQ Assessment Results (Click to Expand)</b></u></summary>
   <br>
   <a href="{{ site.baseurl }}/assets/cybergenresults.png" target="_blank">
     <img src="{{ site.baseurl }}/assets/cybergenresults.png" alt="CyberGEN.IQ Assessment Results" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;" />
