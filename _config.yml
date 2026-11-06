@@ -31,7 +31,7 @@ description:           >
    Cybersecurity Portfolio
 
 # A shorter description for the sidebar.
-tagline:               Cybersecurity Professional \| Threat Intelligence & DFIR \| NYU MS
+tagline:               Security+ \| SSCP \| NYU MS
 
 # A list of keywords for your blog
 # keywords:              []
@@ -53,16 +53,16 @@ author:
 menu:
   - title:             Home
     url:               /
-  - title:             About Me
-    url:               /about/
-  - title:             Writeups
+#  - title:             About Me
+#    url:               /about/
+  - title:             Projects & Writeups
     url:               /projects/
   - title:             Experience
     url:               /experience/
-  - title:             Skills
-    url:               /skills/
-#  - title:             Learning Journey
-#    url:               /learning/
+  - title:             Education & Training
+    url:               /education/
+#  - title:             Skills
+#    url:               /skills/
 #  - title:             Staying Current
 #    url:               /current/
   - title:             Resume
